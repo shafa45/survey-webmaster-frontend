@@ -1,6 +1,6 @@
 # Survey Webmaster Frontend
 
-This project is a frontend application for a survey webmaster. It's built using React
+This project is a frontend application for a survey webmaster. It's built using React and Redux.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ git clone https://github.com/shafa45/survey-webmaster-frontend.git
 
 2. Navigate into the cloned repository
 ```bash
-cd survey-webmaster-frontend
+survey-webmaster-frontend
 ```
 
 3. Install the dependencies
@@ -61,3 +61,7 @@ If you have any questions, issues, or feedback, please contact the project maint
 ![Screenshot 5](./assets/Screenshot(5).png)
 ![Screenshot 6](./assets/Screenshot(6).png)
 ![Screenshot 7](./assets/Screenshot(7).png)
+
+## P.S.
+
+If you keep seeing a loader, it means your `displayCount` exceeds the config set by your survey provider. In that case, you can go to `localStorage` and set `displayCount` to 0 or simply remove it.
