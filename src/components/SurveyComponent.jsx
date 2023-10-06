@@ -14,7 +14,8 @@ function SurveyComponent() {
     popupDelay: 5,
     displayLimit: 3,
     popupInterval: 1,
-    firstPopupTitle: 'Title of first popup',
+    firstPopupTitle:
+      'On a scale from 0 to 10, how likely are you to recommend Pivony to a colleague?',
     popupTitleMoreThan5: 'Title of >5 answer popup',
     popupTitleLessThan5: 'Title of ≤5 answer popup',
   });
