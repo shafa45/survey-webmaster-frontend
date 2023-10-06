@@ -51,3 +51,13 @@ This project is licensed under the MIT License.
 ## Contact
 
 If you have any questions, issues, or feedback, please contact the project maintainers. You can find their contact information in the GitHub profiles.
+
+## Screenshots
+
+![Screenshot 1](./assets/Screenshot (1).png)
+![Screenshot 2](./assets/Screenshot (2).png)
+![Screenshot 3](./assets/Screenshot (3).png)
+![Screenshot 4](./assets/Screenshot (4).png)
+![Screenshot 5](./assets/Screenshot (5).png)
+![Screenshot 6](./assets/Screenshot (6).png)
+![Screenshot 7](./assets/Screenshot (7).png)
