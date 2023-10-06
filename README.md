@@ -1,6 +1,6 @@
 # Survey Webmaster Frontend
 
-This project is a frontend application for a survey webmaster. It's built using React and Redux.
+This project is a frontend application for a survey webmaster. It's built using React
 
 ## Getting Started
 
