@@ -19,7 +19,7 @@ git clone https://github.com/shafa45/survey-webmaster-frontend.git
 
 2. Navigate into the cloned repository
 ```bash
-survey-webmaster-frontend
+cd survey-webmaster-frontend
 ```
 
 3. Install the dependencies
